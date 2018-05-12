@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32837'
     url: http://www.gutenberg.org/2009/agents/32837
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37927#The-Boy-Volunteers-with-the-French-Airmen
 gutenberg_issued: '2011-11-05'
 gutenberg_type: Text
 identifiers:
